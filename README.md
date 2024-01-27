@@ -5,4 +5,4 @@
 Here we have project screenshot :
 
 
-![screenshot](screenshot.jpg)
+![screenshot](Screenshot_1.png)
